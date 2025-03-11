@@ -1,0 +1,12 @@
+class Printstat
+ 
+{
+    public static void main(String[]args){
+        System.out.println("swathi");
+        System.out.print("Rahul\n");
+        System.out.print("Agarwal");
+        System.out.print("Vemuru\n");
+        System.out.print("swathi\nrahu");
+        
+    }
+}
