@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class userinputs{
+    public static void main(String[]args){
+        Scanner obj=new Scanner(System.in);
+        int no1= obj.nextInt();
+        int no2= obj.nextInt();
+        System.out.println(no1+no2);
+        obj.close();
+        
+    }
+}
